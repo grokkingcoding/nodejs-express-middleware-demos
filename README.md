@@ -12,4 +12,3 @@
 5. run: npm i
 6. run npm start 
 7. go to localhost:3333 = your app should be running 
-
